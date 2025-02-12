@@ -29,14 +29,14 @@ const routes = [
         component: () => import('../views/sys/menu/index.vue')
       },
       {
-        path: '/bsns/department',
-        name: '部门管理',
-        component: () => import('../views/bsns/Department')
+        path: '/bsns/ECS',
+        name: '服务器管理',
+        component: () => import('../views/bsns/ECS.vue')
       },
       {
-        path: '/bsns/post',
-        name: '岗位管理',
-        component: () => import('../views/bsns/Post')
+        path: '/bsns/Asset',
+        name: '资源管理',
+        component: () => import('../views/bsns/Asset.vue')
       },
       {
         path: '/userCenter',

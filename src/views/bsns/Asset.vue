@@ -1,10 +1,10 @@
 <template>
-部门管理
+资源管理
 </template>
 
 <script>
 export default {
-  name: "Department"
+  name: "Asset"
 }
 </script>
 

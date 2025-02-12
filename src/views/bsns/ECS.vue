@@ -1,10 +1,10 @@
 <template>
-岗位管理
+服务器管理
 </template>
 
 <script>
 export default {
-  name: "Post"
+  name: "ECS"
 }
 </script>
 
